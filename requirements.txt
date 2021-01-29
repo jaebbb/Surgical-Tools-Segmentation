@@ -1,0 +1,15 @@
+image
+opencv-python
+matplotlib
+numpy
+Pillow
+pycocotools
+scipy
+six
+tensorboardX
+torch
+torchvision
+tqdm
+torchfcn
+imgviz
+labelme
