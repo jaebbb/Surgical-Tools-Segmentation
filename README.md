@@ -26,7 +26,7 @@ $ python3 evaluate_single.py --result matrix # 전체 test이미지에 대한 MI
 ```  
 ---
 ## Result   
-
+<img src = https://user-images.githubusercontent.com/52495256/106235450-079a9e00-623e-11eb-95f0-eeafa3134bc5.png width='80%' hight='80%'>
 <img src = https://user-images.githubusercontent.com/52495256/106229619-46762700-6231-11eb-8e6e-d69b0b2b52c1.png width='80%' hight='80%'>  
 
 
