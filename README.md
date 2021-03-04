@@ -29,6 +29,10 @@ $ python3 evaluate_single.py --result matrix # 전체 test이미지에 대한 MI
 <img src = https://user-images.githubusercontent.com/52495256/106235450-079a9e00-623e-11eb-95f0-eeafa3134bc5.png width='80%' hight='80%'>
 <img src = https://user-images.githubusercontent.com/52495256/106229619-46762700-6231-11eb-8e6e-d69b0b2b52c1.png width='80%' hight='80%'>  
 
+## Web demo  
+웹을 통해서도 간단하게 inference할 수 있게 구현되어 있습니다.  
+[web demo code](https://github.com/SeaRealE/nia-web-demo)  
+<img src =https://user-images.githubusercontent.com/33483699/106849247-b5ea8b80-66f5-11eb-8e0b-ce60e5f3be89.png width="100%" height="auto" />  
 
 ## Discussion  
 19_mtclip의 경우 데이터 출현 빈도는 최하위는 아니였지만 전체적인 영역의 비율이  
